@@ -1,6 +1,6 @@
-name: IPFS/Kubo Setup Action
+name: dClimate IPFS/Kubo Setup Action
 description: A GitHub Action to install and initialize IPFS
-author: Sawood Alam <@ibnesayeed>
+author: dClimate <@ibnesayeed>
 inputs:
   ipfs_version:
     description: IPFS version, automatically resolved to the best matching released binary as per the SemVer format
